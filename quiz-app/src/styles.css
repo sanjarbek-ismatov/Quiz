@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+
+/* small UI helpers */
+.fade-in { animation: fadeIn 320ms ease; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(6px) } to { opacity: 1; transform: translateY(0) } }
+.pop { transition: transform 140ms ease; }
+.pop:active { transform: scale(.98) }
+.focus-ring:focus { box-shadow: 0 0 0 3px rgba(99,102,241,0.15); outline: none }
+
+/* Responsive container */
+.app-container { max-width: 920px; margin: 0 auto; padding: 16px; }
+
+/* Mobile-friendly option buttons */
+.option-btn { padding: 14px 12px; font-size: 15px; text-align: left }
+
+@media (min-width: 640px) {
+	.app-container { padding: 24px }
+	.option-btn { padding: 12px 14px; font-size: 15px }
+}
+
+/* Card and modal shadows tuned for mobile */
+.card { border-radius: 12px; box-shadow: 0 6px 18px rgba(16,24,40,0.06); }
+.modal-card { border-radius: 12px; box-shadow: 0 12px 36px rgba(2,6,23,0.2); }

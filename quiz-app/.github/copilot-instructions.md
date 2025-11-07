@@ -1,0 +1,2 @@
+- Project scaffolded by assistant
+- Follow README to run

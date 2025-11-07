@@ -1,0 +1,1809 @@
+{
+  "history-econ": {
+    "questions": [
+      {
+        "text": "Find the three classes of the economy that Physiocrats identified.",
+        "options": [
+          "#\"productive\", \"sterile\", \"proprietor\"",
+          "\"productive\", \"proprietor\", \"merchants\"",
+          "\"sterile\", \"proprietor\", \"crafts\"",
+          "\"productive\", \"sterile\", \"philosophers\""
+        ]
+      },
+      {
+        "text": "What is Quesnay's renowned \"zig-zag\" depiction of income flows between economic sectors?",
+        "options": [
+          "Essays",
+          "Economic diagram",
+          "#Economic table",
+          "Circular flow diagram"
+        ]
+      },
+      {
+        "text": "In Islamic finance, this is the simplest financing method. Two (or more) people pool their resources in a joint venture, participate in its management, and share the profits and losses on a pre-determined basis.",
+        "options": [
+          "#Musharaka",
+          "Mudarabah",
+          "Murabaha",
+          "Ijara wa iktina"
+        ]
+      },
+      {
+        "text": "In Islamic finance, it is also known as the Commenda in Europe. This form of financing operates as a kind of mutual fund. One party puts up the capital, the other puts in the entrepreneurial skill.",
+        "options": [
+          "Musharaka",
+          "Murabaha",
+          "#Mudarabah",
+          "Ijara wa iktina"
+        ]
+      },
+      {
+        "text": "In Islamic finance, the financier acts as the purchasing agent for the borrower, and then sells the goods to the borrower with a fixed mark-up on the purchase price.",
+        "options": [
+          "Musharaka",
+          "ijara wa iktina",
+          "Mudarabah",
+          "#murabaha"
+        ]
+      },
+      {
+        "text": "Which one is A. Smith’s major scientific work?",
+        "options": [
+          "The theory of \"moral character\"",
+          "#\"Wealth of nations\"",
+          "\"Capital\"",
+          "\"What is property?\""
+        ]
+      },
+      {
+        "text": "Who created the \"comparative advantage\" theory in international trade?",
+        "options": [
+          "Smith",
+          "F. Quesnay",
+          "T. Malthus",
+          "#Ricardo"
+        ]
+      },
+      {
+        "text": "Fill in the space: French Mercantilism is better known as...",
+        "options": [
+          "\"Bullionist\"",
+          "\"Cameralism\"",
+          "#\"Colbertisme\"",
+          "\"Liberal\""
+        ]
+      },
+      {
+        "text": "Fill in the space: German Mercantilism is better known as...",
+        "options": [
+          "\"Liberal\"",
+          "\"Bullionist\"",
+          "#\"Cameralism\"",
+          "\"Colbertisme\""
+        ]
+      },
+      {
+        "text": "Which economic school investigated the \"Dutch puzzle\"?",
+        "options": [
+          "Neoliberalism",
+          "Neoclassic",
+          "#Merchantilism",
+          "Marginalism"
+        ]
+      },
+      {
+        "text": "Indicate D. Ricardo's economic school.",
+        "options": [
+          "Neoliberalism",
+          "Neoclassic",
+          "Merchantilism",
+          "#Classic"
+        ]
+      },
+      {
+        "text": "Which school is A. Smith from?",
+        "options": [
+          "Neoliberalism",
+          "Neoclassic",
+          "Merchantilism",
+          "#Classic"
+        ]
+      },
+      {
+        "text": "Which school is M. Friedman from?",
+        "options": [
+          "#Monetarism",
+          "Neoclassic",
+          "Merchantilism",
+          "Classic"
+        ]
+      },
+      {
+        "text": "Which school is W. Stafford from?",
+        "options": [
+          "Monetarism",
+          "Neoclassic",
+          "#Merchantilism",
+          "Classic"
+        ]
+      },
+      {
+        "text": "Fill in the gap: _________ is the ability to produce more than a competitor.",
+        "options": [
+          "#Absolute advantage",
+          "Comparative advantage",
+          "Laissez-faire",
+          "Marginal cost"
+        ]
+      },
+      {
+        "text": "Fill in the gap: _________ is a policy of minimum governmental interference in the economic affairs of individuals and society.",
+        "options": [
+          "Absolute advantage",
+          "Comparative advantage",
+          "#Laissez-faire",
+          "Marginal cost"
+        ]
+      },
+      {
+        "text": "Who was Vilfredo Pareto?",
+        "options": [
+          "An Italian artist",
+          "An American economist",
+          "#An Italian economist",
+          "A French philosopher"
+        ]
+      },
+      {
+        "text": "What was Pareto's contribution to economics?",
+        "options": [
+          "He was a leader of the Keynesian revolution",
+          "He developed the idea of game theory",
+          "He proposed the theory of comparative advantage",
+          "#He developed general equilibrium theory"
+        ]
+      },
+      {
+        "text": "What is Pareto Efficiency?",
+        "options": [
+          "An economic state where resources can be reallocated to make everyone better off",
+          "#An economic state where resources cannot be reallocated to make one individual better off without making another individual worse off",
+          "An economic state where resources are distributed equally among individuals",
+          "An economic state where resources are not being used efficiently"
+        ]
+      },
+      {
+        "text": "Choose Alfred Marshall's school.",
+        "options": [
+          "Neoliberalism",
+          "#Neoclassic",
+          "Merchantilism",
+          "Marginalism"
+        ]
+      },
+      {
+        "text": "What is Alfred Marshall known for?",
+        "options": [
+          "Founding the \"Chicago\" school of economics",
+          "Propagating Marxist economics",
+          "#Founding the \"Cambridge\" school of Neoclassicism",
+          "Introducing the concept of behavioral economics"
+        ]
+      },
+      {
+        "text": "Which of Alfred Marshall's books was the most successful textbook?",
+        "options": [
+          "The Wealth of Nations",
+          "Capital in the Twenty-First Century",
+          "Das Kapital",
+          "#Principles of Economics"
+        ]
+      },
+      {
+        "text": "What do \"Marshallian scissors\" mean?",
+        "options": [
+          "#Demand and supply",
+          "Saving and consumption",
+          "Needs and wants",
+          "Value and price"
+        ]
+      },
+      {
+        "text": "\"State officials should be replaced frequently to prevent them from abusing their positions.\" In which historical source can the idea above be found?",
+        "options": [
+          "The Hamurabbi Code",
+          "#The Arthashastra",
+          "Laws of Eshnunna",
+          "Quran"
+        ]
+      },
+      {
+        "text": "Who were the prominent economists associated with the American Institutionalist School?",
+        "options": [
+          "Adam Smith and David Ricardo",
+          "Karl Marx and Friedrich Engels",
+          "#Thorstein Veblen, John Commons and Wesley Mitchell",
+          "Milton Friedman and Friedrich Hayek"
+        ]
+      },
+      {
+        "text": "Fill in the space: … the duty of regular charity, was enforced and took a substantial bite out of profits.",
+        "options": [
+          "Usury",
+          "#Zakat",
+          "Jizyah",
+          "Kharaj"
+        ]
+      },
+      {
+        "text": "Fill in the space: … is a tax levied on each individual, or “head” paid by non-Muslim dhimmis (Jews and Christians).",
+        "options": [
+          "Zakat",
+          "Kharaj",
+          "Ushr",
+          "#Jizyah"
+        ]
+      },
+      {
+        "text": "Fill in the space: … is the tax on the produce of lands conquered in the course of the expansion of Islam, but kept in the hands of non-Muslim tillers.",
+        "options": [
+          "#Kharaj",
+          "Ushr",
+          "Jizyah",
+          "Zakat"
+        ]
+      },
+      {
+        "text": "Fill in the space: … is one-tenth of annual produce or earnings, formerly taken as a tax for the support of the Church and clergy.",
+        "options": [
+          "Kharaj",
+          "Jizyah",
+          "Zakat",
+          "#Ushr"
+        ]
+      },
+      {
+        "text": "According to Veblen, what is the function of advertising?",
+        "options": [
+          "To inform consumers about products",
+          "#To create a desire for goods that display status and prestige",
+          "To lower the price of products",
+          "To increase competition between firms"
+        ]
+      },
+      {
+        "text": "What is Edward H. Chamberlin's contribution to economic theory?",
+        "options": [
+          "The theory of comparative advantage",
+          "The theory of perfect competition",
+          "#The theory of monopolistic competition",
+          "The theory of supply and demand"
+        ]
+      },
+      {
+        "text": "Where did Chamberlin receive his education and who was his mentor?",
+        "options": [
+          "#Harvard, under Allyn Young",
+          "Yale, under John Bates Clark",
+          "Princeton, under Paul Samuelson",
+          "Columbia, under Milton Friedman"
+        ]
+      },
+      {
+        "text": "With which economic schools was Joan Robinson associated during her career?",
+        "options": [
+          "The Austrian School and the Chicago School",
+          "#The Cambridge School and the Neo-Ricardian and Post Keynesian schools",
+          "The Lausanne School and the Institutionalist School",
+          "The Monetarist School and the New Classical School"
+        ]
+      },
+      {
+        "text": "What theory did Joan Robinson introduce to economics?",
+        "options": [
+          "Perfect competition",
+          "Monopoly",
+          "#Imperfect competition",
+          "Monopolistic competition"
+        ]
+      },
+      {
+        "text": "Who independently discovered a similar theory of imperfect competition emphasizing product differentiation?",
+        "options": [
+          "Alfred Marshall",
+          "John Bates Clark",
+          "#Edward Chamberlin",
+          "Wesley Mitchell"
+        ]
+      },
+      {
+        "text": "Who is John Maynard Keynes?",
+        "options": [
+          "#British economist",
+          "American politician",
+          "French philosopher",
+          "Russian novelist"
+        ]
+      },
+      {
+        "text": "Indicate the main book of J.M. Keynes.",
+        "options": [
+          "The Wealth of Nations",
+          "Das Kapital",
+          "#The General Theory of Employment, Interest and Money",
+          "The Communist Manifesto"
+        ]
+      },
+      {
+        "text": "What is the impact of Keynes' book, The General Theory of Employment, Interest and Money?",
+        "options": [
+          "It changed the way the world looked at the economy and the role of government in society",
+          "#It caused a global economic crisis",
+          "It was ignored by economists and policymakers",
+          "It was banned in several countries for its controversial ideas."
+        ]
+      },
+      {
+        "text": "Which of the following statements best represents Keynes' view on the capitalist economy during the Great Depression?",
+        "options": [
+          "The capitalist economy is always stable and will eventually achieve equilibrium without government intervention.",
+          "The capitalist economy is inherently stable but may experience short-term fluctuations that are self-correcting.",
+          "#The capitalist economy is inherently unstable and may experience persistent unemployment or severe inflation without government intervention.",
+          "The capitalist economy is always unstable and requires constant government intervention to achieve equilibrium."
+        ]
+      },
+      {
+        "text": "What is the principle of effective demand in Keynesian theory?",
+        "options": [
+          "The idea that supply creates its own demand",
+          "The belief that government intervention is unnecessary in achieving full employment",
+          "The notion that the economy is inherently stable and always self-correcting",
+          "#The concept that aggregate demand equals aggregate supply"
+        ]
+      },
+      {
+        "text": "How is effective demand expressed in an economy?",
+        "options": [
+          "By the level of aggregate supply",
+          "By the price level of goods and services",
+          "#By the aggregate expenditure of an economy",
+          "By the level of income distribution in the economy"
+        ]
+      },
+      {
+        "text": "What does the term \"marginal propensity to consume\" refer to?",
+        "options": [
+          "The fraction of a change in income that is saved",
+          "#The fraction of a change in income that is consumed",
+          "The rate of interest on loans.",
+          "The level of aggregate deman"
+        ]
+      },
+      {
+        "text": "Who was Friedrich von Hayek's great rival?",
+        "options": [
+          "#John Maynard Keynes",
+          "Ludwig von Mises",
+          "Eugen von Böhm-Bawerk",
+          "Carl Menger"
+        ]
+      },
+      {
+        "text": "What is the full form of the APP?",
+        "options": [
+          "#Average period of production",
+          "average production of period",
+          "A and B",
+          "no answer"
+        ]
+      },
+      {
+        "text": "Who was the American Neoclassical economist and professor of economics at Columbia who became one of the leading figures of the Marginalist Revolution?",
+        "options": [
+          "Hilderbrand",
+          "#John Bates Clark",
+          "Karl Marx",
+          "no answer"
+        ]
+      },
+      {
+        "text": "Who is considered important in the transition from agriculture to industry?",
+        "options": [
+          "#Friedrich List",
+          "Karl Marx",
+          "Engel Thompson",
+          "B and C"
+        ]
+      },
+      {
+        "text": "Choose the economist who was born in 1818.",
+        "options": [
+          "A. Smith",
+          "D. Ricardo",
+          "#K. Marx",
+          "F. Quesnay"
+        ]
+      },
+      {
+        "text": "Who is the author of the \"alienation\" theory?",
+        "options": [
+          "#K. Marx",
+          "A. Smith",
+          "B. Hildebrand",
+          "F. Quesnay"
+        ]
+      },
+      {
+        "text": "Choose the correct definition of the \"alienation\" theory.",
+        "options": [
+          "In a free market economy, self-interested individuals operate through a system of mutual interdependence",
+          "#The estrangement of people from aspects of their human nature",
+          "An economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners",
+          "Income flow among economic sectors"
+        ]
+      },
+      {
+        "text": "Choose the book that describes \"class struggle\".",
+        "options": [
+          "Wealth of nations",
+          "Economic table",
+          "Principles of economics",
+          "#Communist manifesto"
+        ]
+      },
+      {
+        "text": "Choose the economist who did not believe in natural \"economic laws\".",
+        "options": [
+          "F. Roscher",
+          "W. Petty",
+          "#B. Hildebrand",
+          "G. Schmoller"
+        ]
+      },
+      {
+        "text": "Choose the economists who belong to the German Historical School.",
+        "options": [
+          "A. Smith, D. Ricardo, W. Petty",
+          "F. Quesnay, Pierre de Nemours, J. Turgot",
+          "T. Mun, J. Colbert, J. Mill",
+          "#K. Marx, G. Schmoller, F. Roscher"
+        ]
+      },
+      {
+        "text": "Choose the economist who argued with Pareto about the \"non-existence of economic laws\" at a conference in Geneva.",
+        "options": [
+          "#G. Schmoller",
+          "F. List",
+          "B. Hildebrand",
+          "F. Wieser"
+        ]
+      },
+      {
+        "text": "Fill in the gap: _______ is the level of satisfaction a person derives from consuming a good or service.",
+        "options": [
+          "Egoism",
+          "Opportunity cost",
+          "#Utility",
+          "Demand"
+        ]
+      },
+      {
+        "text": "Who is one of the leaders of the \"Marginalist Revolution\" of the 1870s?",
+        "options": [
+          "K. Marx",
+          "#C. Menger",
+          "A. Marshall",
+          "M. Friedman"
+        ]
+      },
+      {
+        "text": "Who gave the definition of price as \"symptoms of an equilibrium between individuals involved in an exchange process”?",
+        "options": [
+          "A. Marshal",
+          "E. Böhm-Bawerk",
+          "S. Jevons",
+          "#C. Menger"
+        ]
+      },
+      {
+        "text": "Exclude the economist who does not belong to the Austrian school.",
+        "options": [
+          "#B. Hildebrand",
+          "E. Böhm-Bawerk",
+          "L. Walras",
+          "C. Menger"
+        ]
+      },
+      {
+        "text": "What is the meaning of marginal utility?",
+        "options": [
+          "symptoms of an equilibrium between individuals involved in an exchange process",
+          "the level of satisfaction a person derives from consuming a good or service",
+          "#the level of satisfaction gained from consuming one additional unit of a product or service",
+          "The estrangement of people from aspects of their human nature"
+        ]
+      },
+      {
+        "text": "Which economic school studies economic processes in terms of marginality?",
+        "options": [
+          "Mercantilism",
+          "Neoclassic",
+          "Classic",
+          "#Marginalism"
+        ]
+      },
+      {
+        "text": "What is the unit of measure of the level of satisfaction a person derives from consuming a good or service?",
+        "options": [
+          "Cost",
+          "#Utile",
+          "Pleasure",
+          "Price"
+        ]
+      },
+      {
+        "text": "Choose the author of the “Positive Theory of Capital”.",
+        "options": [
+          "K. Marx",
+          "A. Smith",
+          "#E. Böhm-Bawerk",
+          "A. Marshall"
+        ]
+      },
+      {
+        "text": "What are Wieser's two main contributions?",
+        "options": [
+          "#alternative cost, opportunity cost",
+          "roundabout, dimension",
+          "input, output",
+          "no correct answer"
+        ]
+      },
+      {
+        "text": "Who wrote the Principles of Economics in 1871?",
+        "options": [
+          "Karl Marx",
+          "#Carl Menger",
+          "Stanley Jevons",
+          "no correct answer"
+        ]
+      },
+      {
+        "text": "Who is the founder of the Austrian School of Economics?",
+        "options": [
+          "#Carl Menger",
+          "Stanley Jevons",
+          "Karl Marx",
+          "Joseph Schumpeter"
+        ]
+      },
+      {
+        "text": "What is the definition of a \"good\" according to Carl Menger's ideas?",
+        "options": [
+          "alternative costs",
+          "opportunity costs",
+          "subject to cause and effect",
+          "#useful thing employed in the satisfaction of human needs."
+        ]
+      },
+      {
+        "text": "What did Böhm-Bawerk describe as the process of investment into labor and land?",
+        "options": [
+          "Dimension",
+          "Input",
+          "#Roundabout",
+          "output"
+        ]
+      },
+      {
+        "text": "What is another name for the \"Austrian School\"?",
+        "options": [
+          "#Vienna school",
+          "Friedrich school",
+          "Eugen school",
+          "Revolution school"
+        ]
+      },
+      {
+        "text": "By whom has Leon Walras been hailed as \"the greatest of all economists\"?",
+        "options": [
+          "#Joseph Schumpeter",
+          "Stanley Jevons",
+          "Carl Menger",
+          "no answer"
+        ]
+      },
+      {
+        "text": "Who argued that there was a connection between the timing of commercial crises and the solar cycle?",
+        "options": [
+          "Carl Menger",
+          "Leon Walras",
+          "Joseph Schumpeter",
+          "#William Stanley Jevons"
+        ]
+      },
+      {
+        "text": "Who published \"Elements of Pure Economics\"?",
+        "options": [
+          "#Leon Walras",
+          "Carl Menger",
+          "William Stanley",
+          "Joseph Schumpeter"
+        ]
+      },
+      {
+        "text": "Who is the father of general equilibrium theory?",
+        "options": [
+          "Carl Menger",
+          "#Leon Walras",
+          "Joseph Schumpeter",
+          "William Stanley Jevons"
+        ]
+      },
+      {
+        "text": "Who is the American Neoclassical economist and professor of economics at Columbia known for being one of the leading figures of the Marginalist Revolution?",
+        "options": [
+          "#John Bates Clark",
+          "Carl Menger",
+          "William Stanley",
+          "Joseph Schumpeter"
+        ]
+      },
+      {
+        "text": "“Achieving a positive balance of trade causes England's wealth to steadily increase,” and “foreign trade was the best way to increase the wealth of a nation.” Who is the author of the statements above?",
+        "options": [
+          "William Stafford",
+          "#Thomas Mun",
+          "Jean Charles",
+          "William Stanley"
+        ]
+      },
+      {
+        "text": "Who invited workmen from foreign countries and prohibited French workmen from emigrating?",
+        "options": [
+          "John Stuart Mill",
+          "Keynes",
+          "Hayek",
+          "#Jean-Baptiste Colbert"
+        ]
+      },
+      {
+        "text": "Who was expelling foreign merchants from France as much as possible and giving local merchants a monopoly on foreign trade?",
+        "options": [
+          "William Stanley",
+          "David Ricardo",
+          "#Antoine de Montchrestien",
+          "John Maynard"
+        ]
+      },
+      {
+        "text": "Which country’s importation was prohibited by William Stafford?",
+        "options": [
+          "#England",
+          "The USA",
+          "Germany",
+          "Russia"
+        ]
+      },
+      {
+        "text": "Which concept in the options belongs to John Law?",
+        "options": [
+          "inviting in workmen from foreign countries, and prohibited French workmen from emigrating",
+          "Supply creates own demand",
+          "avoiding anarchy in industry and focusing on planned central management",
+          "#a small increase in the price of goods leads to a large increase in the supply of goods"
+        ]
+      },
+      {
+        "text": "Which one refers to the school of thought of economics that originated in the late 18th and early 19th centuries, especially in Britain?",
+        "options": [
+          "#classical economics",
+          "political economics",
+          "classical political economics",
+          "No answer"
+        ]
+      },
+      {
+        "text": "What does Classical economics focus on?",
+        "options": [
+          "Demand drives supply and that healthy economies spend or invest more than they save",
+          "Market prices should be fixed by the consumers/business owners operating there, without any government interference",
+          "#Economic growth and economic freedom, advocating laissez-faire ideas and belief in free competition",
+          "The wealth of nations derived solely from the value of \"land agriculture\""
+        ]
+      },
+      {
+        "text": "What did the classical economic theory propagate to the countries?",
+        "options": [
+          "all important jobs should be open to women on the basis of skill and aptitude rather than closed on account of gender",
+          "wars important in the transition from agriculture to industry",
+          "alternative theories and ideas about the central issues of our day, including economic instability, central planning, and the operation of the political process.",
+          "#to move from the monarch rule to a capitalist democracy factored with self-regulation"
+        ]
+      },
+      {
+        "text": "Who believed the statement “Wages should be paid at a level that covers the living minimum”?",
+        "options": [
+          "#William Petty",
+          "John Stuart Mill",
+          "Jacques Turgot",
+          "Henri de Saint-Simon"
+        ]
+      },
+      {
+        "text": "What does Adam Smith describe as “The unintended greater social impacts brought about by individuals acting in their own self-interests”?",
+        "options": [
+          "Wars",
+          "Pandemic",
+          "classic school",
+          "#Invisible hand"
+        ]
+      },
+      {
+        "text": "Who believed that the “Comparative advantage” theory is an economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners?",
+        "options": [
+          "#David Ricardo",
+          "Jacques Turgot",
+          "John Stuart Mill",
+          "Jean Charles Leonard"
+        ]
+      },
+      {
+        "text": "How would population grow, whereas food resources would only grow in arithmetic progression, according to Thomas Malthus’s beliefs?",
+        "options": [
+          "biometric",
+          "#geometric",
+          "arithmetic",
+          "geographic"
+        ]
+      },
+      {
+        "text": "What can not be seen as a measure to prevent overpopulation, according to Thomas Malthus’s beliefs?",
+        "options": [
+          "#High standard of living",
+          "Later marriage",
+          "Famine",
+          "Wars"
+        ]
+      },
+      {
+        "text": "What language did the word Physiocracy originally come from?",
+        "options": [
+          "Latin",
+          "German",
+          "#Greek",
+          "French"
+        ]
+      },
+      {
+        "text": "Who trusted the idea that “the wealth of nations derived solely from the value of 'land agriculture' or 'land development'”?",
+        "options": [
+          "American philosophers",
+          "Chinese economists",
+          "#French economists",
+          "Russian politicians"
+        ]
+      },
+      {
+        "text": "Which concept originated in France and was most popular during the second half of the 18th century?",
+        "options": [
+          "#the wealth of nations derived solely from the value of \"land agriculture\" or \"land development\"",
+          "The amount of money in an economy must be equal to the quantity of goods and services",
+          "demand drives supply and that healthy economies spend or invest more than they save",
+          "the central issues of our day, including economic instability, central planning, and the operation of the political process"
+        ]
+      },
+      {
+        "text": "Who trusted the concept “The main source of wealth comes from agriculture”?",
+        "options": [
+          "Friedrich List",
+          "#François Quesnay",
+          "Alfred Marshall",
+          "Thorstein Veblen"
+        ]
+      },
+      {
+        "text": "Which statement belongs to Jacques Turgot?",
+        "options": [
+          "#The amount of money in an economy must be equal to the quantity of goods and services",
+          "Wages should be paid at a level that covers living minimum",
+          "“Comparative advantage” theory is an economy's ability to produce a particular good or service at a lower opportunity cost than its trading partners",
+          "the wealth of nations derived solely from the value of \"land agriculture\" or \"land development\""
+        ]
+      },
+      {
+        "text": "Who suggests avoiding anarchy in industry and focusing on planned central management?",
+        "options": [
+          "David Ricardo",
+          "John Galbraith",
+          "John Maynard",
+          "#Henri de Saint-Simon"
+        ]
+      },
+      {
+        "text": "According to Charles Fourier’s opinions, for whom should all important jobs be open on the basis of skill and aptitude?",
+        "options": [
+          "Unemployment",
+          "Men",
+          "#Women",
+          "Youngsters"
+        ]
+      },
+      {
+        "text": "Fourier saw that what could potentially hurt women's rights as human beings?",
+        "options": [
+          "#traditional marriage",
+          "Being jobless",
+          "Being careless",
+          "Aggression"
+        ]
+      },
+      {
+        "text": "Who argues that demand drives supply and that healthy economies spend or invest more than they save?",
+        "options": [
+          "Japan economists",
+          "German scientists",
+          "Russian politicians",
+          "#Keynesian economics"
+        ]
+      },
+      {
+        "text": "Which scientists researched the evolution of modern economic views (Neoliberalism and Monetarism)?",
+        "options": [
+          "F. Hayek",
+          "M. Friedman",
+          "L. Erhard",
+          "#All answers are correct"
+        ]
+      },
+      {
+        "text": "How do we know Ludwig Wilhelm Erhard?",
+        "options": [
+          "competition where possible, regulation where necessary",
+          "#He is known for leading the West German postwar economic reforms and economic recovery (German for \"economic miracle\")",
+          "one of the giants of the economics profession",
+          "First Nobel-prizer in economics"
+        ]
+      },
+      {
+        "text": "Who is the founder of the American Economic School?",
+        "options": [
+          "#J. Clark",
+          "Marshall",
+          "J. Say",
+          "Ricardo"
+        ]
+      },
+      {
+        "text": "The founder of the Institutionalism school is ______.",
+        "options": [
+          "#T. Veblen",
+          "Smith",
+          "Ricardo",
+          "Marshall."
+        ]
+      },
+      {
+        "text": "To which school does the term \"utility\" belong?",
+        "options": [
+          "Classical doctrine",
+          "Monetarism",
+          "#Marginalism",
+          "Mercantilism"
+        ]
+      },
+      {
+        "text": "Which economist created the \"Economic Table\"?",
+        "options": [
+          "#F. Quesnay",
+          "A. Turgot",
+          "A. Smith",
+          "D. Ricardo"
+        ]
+      },
+      {
+        "text": "Who is the founder of the concept of the \"Invisible Hand\"?",
+        "options": [
+          "D. Ricardo",
+          "#A. Smith",
+          "F. Quesnay",
+          "D. Hume"
+        ]
+      },
+      {
+        "text": "What were the main ideas of the Physiocrats?",
+        "options": [
+          "Development of production",
+          "#Development of agriculture",
+          "Development of industry",
+          "Resistance to agricultural development"
+        ]
+      },
+      {
+        "text": "What type of tax was considered important by the Physiocrats?",
+        "options": [
+          "Property tax",
+          "Slave tax",
+          "Farm tax",
+          "#Land tax."
+        ]
+      },
+      {
+        "text": "\"The wealth of a nation,\" ________ argued, \"lies in the size of its net product.\"",
+        "options": [
+          "Adam Smith",
+          "#François Quesnay",
+          "David Ricardo",
+          "William Petty"
+        ]
+      },
+      {
+        "text": "The \"IS-LM\" model was introduced by ______.",
+        "options": [
+          "Thorstein Veblen",
+          "John Commons",
+          "Alfred Marshall",
+          "#John Maynard Keynes"
+        ]
+      },
+      {
+        "text": "The word “Oeconomicus” means:",
+        "options": [
+          "#a household management",
+          "agricultural law",
+          "manufactory",
+          "management"
+        ]
+      },
+      {
+        "text": "Which economist supported the state's intervention in the economy?",
+        "options": [
+          "Marshall",
+          "#J.M. Keynes",
+          "Ricardo",
+          "Smith"
+        ]
+      },
+      {
+        "text": "Which of the following is the policy of mercantilism?",
+        "options": [
+          "Neoliberalism",
+          "Market economy",
+          "#Protectionism",
+          "Democracy"
+        ]
+      },
+      {
+        "text": "Fill in the gap: According to W. Petty, “Labor is the father of wealth, __________ is its mother.”",
+        "options": [
+          "#Land",
+          "Capital",
+          "Business",
+          "Democracy"
+        ]
+      },
+      {
+        "text": "What is the main concept introduced by Adam Smith to describe how individual self-interest can lead to overall economic welfare?",
+        "options": [
+          "Invisible government",
+          "Market monopoly",
+          "#Invisible hand",
+          "Laissez-faire control"
+        ]
+      },
+      {
+        "text": "According to David Ricardo, what determines a country's pattern of international trade?",
+        "options": [
+          "Absolute advantage",
+          "Technological superiority",
+          "#Comparative advantage",
+          "High labor productivity"
+        ]
+      },
+      {
+        "text": "In Malthus’s theory, population tends to grow in which of the following progressions?",
+        "options": [
+          "Arithmetic progression",
+          "#Geometric progression",
+          "Constant progression",
+          "Cyclical progression"
+        ]
+      },
+      {
+        "text": "What is the main argument of Malthus’s “Essay on the Principle of Population”?",
+        "options": [
+          "Wages rise faster than prices",
+          "Government controls can stop overpopulation",
+          "#Population grows faster than food supply",
+          "Trade expansion prevents poverty"
+        ]
+      },
+      {
+        "text": "Which concept introduced by John Stuart Mill suggests that endless material growth is not desirable and society should focus on moral and intellectual progress?",
+        "options": [
+          "#Stationary state",
+          "Dynamic equilibrium",
+          "Circular growth",
+          "Demographic transition"
+        ]
+      },
+      {
+        "text": "According to Mill, what can be changed through social and institutional reforms?",
+        "options": [
+          "Natural laws of production",
+          "Technological progress",
+          "#Laws of distribution",
+          "Economic scarcity"
+        ]
+      },
+      {
+        "text": "Which statement best summarizes Say’s Law of Markets?",
+        "options": [
+          "Government must stimulate demand through spending",
+          "Demand creates its own supply",
+          "#Supply creates its own demand",
+          "Production depends on export markets"
+        ]
+      },
+      {
+        "text": "According to Jean-Baptiste Say, what role do entrepreneurs play in the economy?",
+        "options": [
+          "They only own capital and collect interest",
+          "#They coordinate production by combining land, labor, and capital",
+          "They are passive consumers of goods",
+          "They control government taxation"
+        ]
+      },
+      {
+        "text": "In Adam Smith’s Wealth of Nations, which type of labor directly contributes to the creation of national wealth?",
+        "options": [
+          "Unproductive labor",
+          "Administrative labor",
+          "#Productive labor",
+          "Public sector labor"
+        ]
+      },
+      {
+        "text": "Who among the classical economists argued that value comes from utility, not just the amount of labor embodied in goods?",
+        "options": [
+          "Thomas Malthus",
+          "#Jean-Baptiste Say",
+          "John Stuart Mill",
+          "David Ricardo"
+        ]
+      },
+      {
+        "text": "Which of the following best describes David Ricardo’s theory of rent?",
+        "options": [
+          "Rent is determined by government regulation",
+          "Rent increases as population decreases",
+          "#Rent arises due to differences in land fertility",
+          "Rent is unrelated to agricultural production"
+        ]
+      },
+      {
+        "text": "What was Malthus’s attitude toward poor relief and charity?",
+        "options": [
+          "He fully supported all welfare programs",
+          "He ignored the issue of poverty",
+          "#He believed charity encourages overpopulation",
+          "He thought welfare reduces inequality"
+        ]
+      },
+      {
+        "text": "According to John Stuart Mill, which of the following can lead to a fairer society without harming production efficiency?",
+        "options": [
+          "#Progressive taxation and redistribution",
+          "Elimination of private property",
+          "Increased tariffs on imports",
+          "Restricting capital accumulation"
+        ]
+      },
+      {
+        "text": "Which economist emphasized that the economy would naturally return to equilibrium without government intervention?",
+        "options": [
+          "Thomas Malthus",
+          "#Jean-Baptiste Say",
+          "John Stuart Mill",
+          "Adam Smith"
+        ]
+      },
+      {
+        "text": "In Adam Smith’s theory, which factor is not part of the “natural price” of goods?",
+        "options": [
+          "Wages",
+          "Profit",
+          "#Government subsidies",
+          "Rent"
+        ]
+      },
+      {
+        "text": "Who is considered one of the pioneers of industrialist and merit-based socialism?",
+        "options": [
+          "Charles Fourier",
+          "Robert Owen",
+          "#Claude Henri de Saint-Simon",
+          "Karl Marx"
+        ]
+      },
+      {
+        "text": "According to Saint-Simon, who should lead society for progress and welfare?",
+        "options": [
+          "#Scientists and engineers",
+          "Politicians and nobles",
+          "Merchants and landlords",
+          "Military leaders"
+        ]
+      },
+      {
+        "text": "What did Saint-Simon believe was the main source of social advancement?",
+        "options": [
+          "Agricultural expansion",
+          "#Industry and production",
+          "Wealth inheritance",
+          "Religious authority"
+        ]
+      },
+      {
+        "text": "Which of the following best describes Saint-Simon’s economic vision?",
+        "options": [
+          "Government ownership of all property",
+          "#Wealth distribution based on productivity and merit",
+          "Complete free-market capitalism",
+          "Feudal privileges and hierarchy"
+        ]
+      },
+      {
+        "text": "What kind of communities did Charles Fourier propose?",
+        "options": [
+          "State-owned colonies",
+          "#Small self-sufficient “phalanxes”",
+          "Urban industrial centers",
+          "Military communes"
+        ]
+      },
+      {
+        "text": "Which of the following did Fourier criticize most strongly?",
+        "options": [
+          "Technological development",
+          "#Economic inequality and alienated labor",
+          "Industrial cooperation",
+          "Utopian ideals"
+        ]
+      },
+      {
+        "text": "What was Fourier’s main principle of social organization?",
+        "options": [
+          "Strict government control",
+          "Religious discipline",
+          "#Voluntary cooperation and harmony",
+          "Private property rights"
+        ]
+      },
+      {
+        "text": "Who established the New Lanark model community to improve workers’ living conditions?",
+        "options": [
+          "Karl Marx",
+          "Charles Fourier",
+          "#Robert Owen",
+          "Saint-Simon"
+        ]
+      },
+      {
+        "text": "Which reform did Robert Owen introduce in his factories?",
+        "options": [
+          "Abolition of money",
+          "#Free education and shorter working hours",
+          "Nationalization of all industries",
+          "Child labor incentives"
+        ]
+      },
+      {
+        "text": "Robert Owen is known as the “Father of...”",
+        "options": [
+          "Modern Capitalism",
+          "#Cooperatives",
+          "Trade Unions",
+          "Public Finance"
+        ]
+      },
+      {
+        "text": "What is the main similarity among Saint-Simon, Fourier, and Owen?",
+        "options": [
+          "They all rejected industrialization",
+          "They supported absolute monarchy",
+          "#They sought alternatives to capitalism emphasizing cooperation",
+          "They opposed any social reforms"
+        ]
+      },
+      {
+        "text": "Which thinker emphasized industrial leadership and scientific planning?",
+        "options": [
+          "Robert Owen",
+          "Charles Fourier",
+          "#Saint-Simon",
+          "Karl Marx"
+        ]
+      },
+      {
+        "text": "Which thinker actually implemented practical social reforms rather than only proposing theory?",
+        "options": [
+          "Karl Marx",
+          "#Robert Owen",
+          "Saint-Simon",
+          "Fourier"
+        ]
+      },
+      {
+        "text": "What is the title of Karl Marx’s most famous work published in 1867?",
+        "options": [
+          "The Wealth of Nations",
+          "#Das Kapital",
+          "Principles of Political Economy",
+          "A Treatise on Money"
+        ]
+      },
+      {
+        "text": "According to Marx’s labor theory of value, what determines the value of a commodity?",
+        "options": [
+          "Utility to consumers",
+          "Scarcity of resources",
+          "#Socially necessary labor time",
+          "Government regulation"
+        ]
+      },
+      {
+        "text": "What is “surplus value” in Marxian economics?",
+        "options": [
+          "The total cost of production",
+          "#The difference between the value created by labor and the wage paid",
+          "The value of machinery used",
+          "Profit after taxation"
+        ]
+      },
+      {
+        "text": "According to Marx, what forms the profit of the capitalist?",
+        "options": [
+          "Rent from land",
+          "#Unpaid portion of workers’ labor",
+          "Government subsidies",
+          "Interest on credit"
+        ]
+      },
+      {
+        "text": "In Marx’s theory, labor power itself becomes a...",
+        "options": [
+          "Service",
+          "Gift",
+          "#Commodity",
+          "Tax obligation"
+        ]
+      },
+      {
+        "text": "Which of the following best describes Marx’s view of capitalism?",
+        "options": [
+          "A fair and equal system",
+          "#A system based on exploitation of labor",
+          "A temporary stage of socialism",
+          "A moral and spiritual system"
+        ]
+      },
+      {
+        "text": "What did Marx divide the total value produced in society into?",
+        "options": [
+          "Investment, consumption, and imports",
+          "#Wages, profit, and rent",
+          "Labor, capital, and land",
+          "Exports, savings, and taxes"
+        ]
+      },
+      {
+        "text": "Who was one of the founders of the Marginalist Revolution of 1871?",
+        "options": [
+          "John Stuart Mill",
+          "Karl Marx",
+          "#William Stanley Jevons",
+          "David Ricardo"
+        ]
+      },
+      {
+        "text": "Which economist founded the Austrian School of Economics?",
+        "options": [
+          "Alfred Marshall",
+          "#Carl Menger",
+          "Vilfredo Pareto",
+          "Léon Walras"
+        ]
+      },
+      {
+        "text": "Who were the main representatives of the first generation of the Austrian School?",
+        "options": [
+          "John Hicks and Keynes",
+          "#Eugen von Böhm-Bawerk and Friedrich von Wieser",
+          "Walras and Pareto",
+          "Schumpeter and Hayek"
+        ]
+      },
+      {
+        "text": "According to Friedrich von Wieser, all things are subject to:",
+        "options": [
+          "Market forces only",
+          "#Cause and effect",
+          "Government regulation",
+          "Moral law"
+        ]
+      },
+      {
+        "text": "What is Eugen von Böhm-Bawerk best known for?",
+        "options": [
+          "The law of population",
+          "#The Positive Theory of Capital (1889)",
+          "The Principles of Economics",
+          "The General Theory of Employment"
+        ]
+      },
+      {
+        "text": "According to Böhm-Bawerk, capital represents:",
+        "options": [
+          "Labor productivity only",
+          "Government ownership",
+          "#A “roundabout” production process involving time and investment",
+          "Pure financial capital"
+        ]
+      },
+      {
+        "text": "What is the “Average Period of Production (APP)” concept used for?",
+        "options": [
+          "#To measure the productivity of capital over time",
+          "To calculate wages",
+          "To estimate inflation",
+          "To measure government spending"
+        ]
+      },
+      {
+        "text": "Who was one of the three main economists associated with the Marginalist Revolution alongside Menger and Walras?",
+        "options": [
+          "Alfred Marshall",
+          "#William Stanley Jevons",
+          "Adam Smith",
+          "David Ricardo"
+        ]
+      },
+      {
+        "text": "What was the “Sunspot Theory” proposed by Jevons?",
+        "options": [
+          "A theory of taxation",
+          "#A link between solar activity and business cycles",
+          "A theory of comparative advantage",
+          "A model of consumer behavior"
+        ]
+      },
+      {
+        "text": "According to Jevons, government policy should:",
+        "options": [
+          "Completely control markets",
+          "Ignore social effects",
+          "#Increase happiness without reducing others’ welfare",
+          "Be based solely on taxation"
+        ]
+      },
+      {
+        "text": "Who is regarded as the father of general equilibrium theory?",
+        "options": [
+          "Carl Menger",
+          "#Léon Walras",
+          "Alfred Marshall",
+          "Robert Owen"
+        ]
+      },
+      {
+        "text": "Which book by Léon Walras laid the foundation of general equilibrium theory?",
+        "options": [
+          "Principles of Economics",
+          "#Elements of Pure Economics",
+          "Capital and Interest",
+          "The Positive Theory of Capital"
+        ]
+      },
+      {
+        "text": "Who was the founder of the Cambridge School of Neoclassicism?",
+        "options": [
+          "Carl Menger",
+          "Léon Walras",
+          "#Alfred Marshall",
+          "Vilfredo Pareto"
+        ]
+      },
+      {
+        "text": "Which of Alfred Marshall’s books became the foundation of neoclassical economics?",
+        "options": [
+          "#Principles of Economics (1890)",
+          "The Wealth of Nations",
+          "Das Kapital",
+          "The Theory of Moral Sentiments"
+        ]
+      },
+      {
+        "text": "What is the meaning of Marshall’s Latin phrase “Natura non facit saltum”?",
+        "options": [
+          "#Nature does not make jumps",
+          "Man controls nature",
+          "The economy is unpredictable",
+          "Wealth comes from nature"
+        ]
+      },
+      {
+        "text": "What key concept did Marshall develop to measure consumer welfare?",
+        "options": [
+          "Marginal utility",
+          "#Consumer surplus",
+          "Producer surplus",
+          "Total revenue"
+        ]
+      },
+      {
+        "text": "Which economist is associated with the concept of Pareto Efficiency?",
+        "options": [
+          "#Vilfredo Pareto",
+          "John Hicks",
+          "Alfred Marshall",
+          "Carl Menger"
+        ]
+      },
+      {
+        "text": "According to Pareto Efficiency, a change is efficient when:",
+        "options": [
+          "Everyone gains equally",
+          "#No one can be made better off without making someone else worse off",
+          "Total income increases",
+          "Wages rise faster than profits"
+        ]
+      },
+      {
+        "text": "Which economist described equilibrium as the result of “tastes and obstacles”?",
+        "options": [
+          "#Vilfredo Pareto",
+          "David Ricardo",
+          "William Jevons",
+          "Karl Marx"
+        ]
+      },
+      {
+        "text": "What was the main goal of the Neoclassical School that emerged after marginalism?",
+        "options": [
+          "To reject individual decision-making",
+          "#To integrate utility, supply and demand, and equilibrium analysis",
+          "To restore classical labor theory of value",
+          "To promote socialist planning"
+        ]
+      },
+      {
+        "text": "What was prohibited in the Laws of Hammurabi?",
+        "options": [
+          "#The sale of land, houses, or gardens belonging to a soldier or taxpayer for silver",
+          "Promoting private ownership",
+          "Commodity-money relations",
+          "Reforming the tax system"
+        ]
+      },
+      {
+        "text": "According to the Avesta, what is considered a grave sin to pollute?",
+        "options": [
+          "#Polluting or contaminating the earth, water, and air",
+          "Polluting the earth, milk, and temples",
+          "Polluting people’s minds and thoughts",
+          "All answers are correct"
+        ]
+      },
+      {
+        "text": "In Arthashastra, what activities are considered the basis of the economy?",
+        "options": [
+          "#Agriculture, animal husbandry, and trade",
+          "Agriculture, handicrafts, and trade",
+          "Agriculture, hunting, and handicrafts",
+          "All answers are correct"
+        ]
+      },
+      {
+        "text": "Who stated that differences in absolute costs are not important in international trade?",
+        "options": [
+          "#David Ricardo",
+          "William Petty",
+          "John Maynard Keynes",
+          "François Quesnay"
+        ]
+      },
+      {
+        "text": "Choose the correct works written by Xenophon (430–355 BCE):",
+        "options": [
+          "#“On Revenues” and “Oeconomicus”",
+          "“The Theory of Costs” and “Oeconomicus”",
+          "“Ways to Increase Income”",
+          "“On the Sources of Income”"
+        ]
+      },
+      {
+        "text": "In his work On Revenues, which state’s economy did Xenophon analyze?",
+        "options": [
+          "#The economy of Athens",
+          "The economy of Rome",
+          "The economy of China",
+          "The economy of Arabia"
+        ]
+      },
+      {
+        "text": "Which Greek philosopher wrote Nicomachean Ethics and Politics?",
+        "options": [
+          "#Aristotle",
+          "Xenophon",
+          "Plato",
+          "Confucius"
+        ]
+      },
+      {
+        "text": "What is chrematistics?",
+        "options": [
+          "#The art of gaining wealth through large-scale trade",
+          "The art of gaining wealth through agriculture",
+          "The art of gaining wealth through animal husbandry",
+          "The art of gaining wealth through craftsmanship"
+        ]
+      },
+      {
+        "text": "What was the core principle of the mercantilist worldview?",
+        "options": [
+          "#Considering gold and precious metals as the main form of wealth",
+          "Rejecting gold and precious metals",
+          "Considering all things as wealth",
+          "Banning the export of silver coins"
+        ]
+      },
+      {
+        "text": "What was the first school of economic thought?",
+        "options": [
+          "#Mercantilism",
+          "Classical School",
+          "Physiocracy",
+          "Marginalism"
+        ]
+      },
+      {
+        "text": "Who were the main representatives of mercantilism?",
+        "options": [
+          "#William Stafford, Gasparo Scaruffi",
+          "William Jevons, Carl Menger",
+          "Adam Smith, William Petty",
+          "Friedrich von Wieser, John Galbraith"
+        ]
+      },
+      {
+        "text": "What is the meaning of the word mercantilism?",
+        "options": [
+          "#From Italian “mercante” – merchant",
+          "From Greek “merko and kantos” – merchant",
+          "From Italian “mercante” – foreign trade",
+          "From Greek “merko and kantos” – foreign trade"
+        ]
+      },
+      {
+        "text": "Which school linked the origin of money’s value to the natural properties of gold and silver and their quantity in the country?",
+        "options": [
+          "#Mercantilism",
+          "Capitalism",
+          "Marginalism",
+          "Physiocracy"
+        ]
+      },
+      {
+        "text": "According to the mercantilists, what factor determines economic growth?",
+        "options": [
+          "#Government regulation of foreign trade and achieving a positive trade balance",
+          "Developing domestic trade",
+          "Producing more gold and silver coins",
+          "Restricting imports"
+        ]
+      },
+      {
+        "text": "Unlike early mercantilists, later mercantilists promoted which theory?",
+        "options": [
+          "#The “Trade Balance” theory",
+          "The “Money Balance” theory",
+          "The “Gold Balance” theory",
+          "The “Labor Balance” theory"
+        ]
+      },
+      {
+        "text": "What did mercantilists mean by an active trade balance?",
+        "options": [
+          "#Capturing foreign markets by selling relatively cheap goods, and reselling one country’s goods at higher prices in others",
+          "Capturing domestic markets by selling cheap goods",
+          "Selling cheap gold abroad and reselling it domestically",
+          "Selling cheap silver abroad and reselling it domestically"
+        ]
+      },
+      {
+        "text": "Who was a prominent representative of developed mercantilism?",
+        "options": [
+          "#Thomas Mun",
+          "McCulloch",
+          "John Maynard Keynes",
+          "Jean-Baptiste Say"
+        ]
+      },
+      {
+        "text": "In an active trade balance, ___________. (Fill in the blank)",
+        "options": [
+          "#Exports are encouraged",
+          "Manufacturing is developed",
+          "Industrial output is stimulated",
+          "Imports are banned"
+        ]
+      },
+      {
+        "text": "According to mercantilist doctrine, what is the main source of wealth?",
+        "options": [
+          "#Trade",
+          "Craftsmanship",
+          "Animal husbandry",
+          "Production"
+        ]
+      },
+      {
+        "text": "Who was the French mercantilist author of “Treatise on Political Economy” (1615)?",
+        "options": [
+          "#Antoine de Montchrestien",
+          "Adam Smith",
+          "David Ricardo",
+          "François Quesnay"
+        ]
+      },
+      {
+        "text": "How did second mercantilist policy differ from early mercantilism?",
+        "options": [
+          "#By focusing on foreign trade development",
+          "By increasing production volume",
+          "By developing domestic trade",
+          "By developing handicrafts"
+        ]
+      },
+      {
+        "text": "In which country did the first classical economic school emerge?",
+        "options": [
+          "#England",
+          "France",
+          "The Netherlands",
+          "Austria"
+        ]
+      },
+      {
+        "text": "What characterizes Petty’s theory of wages?",
+        "options": [
+          "#Wages represent the minimum necessary for subsistence",
+          "Wages must be set at the maximum level",
+          "Wages equal the entire value produced",
+          "Wages should be unlimited"
+        ]
+      },
+      {
+        "text": "Who were the French representatives of the classical school?",
+        "options": [
+          "#Pierre Boisguilbert, François Quesnay, Anne Turgot",
+          "Adam Smith, William Petty",
+          "Alfred Marshall, Turgot",
+          "Saint-Simon, David Ricardo"
+        ]
+      },
+      {
+        "text": "According to Boisguilbert, what is the main source of wealth and national prosperity?",
+        "options": [
+          "#Agriculture",
+          "Industry",
+          "Crafts",
+          "Trade"
+        ]
+      },
+      {
+        "text": "Who said: “Labor is the father of wealth, and the earth is its mother”?",
+        "options": [
+          "#William Petty",
+          "Adam Smith",
+          "David Ricardo",
+          "Turgot"
+        ]
+      },
+      {
+        "text": "Who wrote “An Inquiry into the Nature and Causes of the Wealth of Nations”?",
+        "options": [
+          "#Adam Smith",
+          "William Petty",
+          "David Ricardo",
+          "Anne Turgot"
+        ]
+      },
+      {
+        "text": "Who is the founder of the Physiocratic school?",
+        "options": [
+          "#François Quesnay",
+          "Alfred Marshall",
+          "Saint-Simon",
+          "John Maynard Keynes"
+        ]
+      },
+      {
+        "text": "According to Physiocrats, in which sector does wealth originate?",
+        "options": [
+          "#Agriculture",
+          "Trade",
+          "Animal husbandry",
+          "Tax reform"
+        ]
+      },
+      {
+        "text": "Who was the author of “Political Arithmetic” (1683)?",
+        "options": [
+          "#William Petty",
+          "Alfred Marshall",
+          "Saint-Simon",
+          "John Maynard Keynes"
+        ]
+      },
+      {
+        "text": "What is the essence of Quesnay’s concept of “Natural Order”?",
+        "options": [
+          "#An economy based on free competition",
+          "Based on private ownership",
+          "Based on commodity-money relations",
+          "Tax reform"
+        ]
+      },
+      {
+        "text": "Unlike Quesnay, J. Turgot recognized the existence of which additional social classes?",
+        "options": [
+          "#Workers and capitalists",
+          "Landowners",
+          "Industrialists",
+          "Clergy"
+        ]
+      },
+      {
+        "text": "Adam Smith and David Ricardo are representatives of which economic school?",
+        "options": [
+          "#Classical school",
+          "Mercantilism",
+          "Physiocracy",
+          "Clerical thought"
+        ]
+      },
+      {
+        "text": "What is Adam Smith’s main economic work?",
+        "options": [
+          "#An Inquiry into the Nature and Causes of the Wealth of Nations",
+          "The Theory of Moral Sentiments",
+          "Capital",
+          "Property Relations"
+        ]
+      },
+      {
+        "text": "Who proposed the idea of the “Invisible Hand”?",
+        "options": [
+          "#Adam Smith",
+          "William Petty",
+          "David Ricardo",
+          "J. Turgot"
+        ]
+      },
+      {
+        "text": "In the example of the pin factory, what did Adam Smith demonstrate?",
+        "options": [
+          "#The division of labor",
+          "Production",
+          "Finished products",
+          "Forms of activity"
+        ]
+      }
+    ]
+  },
+  "modern-uz": {
+    "questions": []
+  }
+}
